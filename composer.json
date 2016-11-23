@@ -23,6 +23,5 @@
         "psr-4": {
             "Mysql\\Queue\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
